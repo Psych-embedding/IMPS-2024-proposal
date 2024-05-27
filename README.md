@@ -1,7 +1,13 @@
 # IMPS-2024-proposal
+
 This repository collects codes and detailed descriptions of the preliminary results in our research proposal to IMPS 2024 research competition
 
-Data source: the process data for a climate control intem in the Programme for International Student Assessment (PISA) 2012 reponse process data [^1]. 
+**Data source:** the process data for a climate control intem in the Programme for International Student Assessment (PISA) 2012 reponse process data [^1]. 
+
+**Files:**
+- *distillGPT2_finetune.ipynb*: using distilled GPT-2 for fine-tuning.
+- *in_context_ability_test_GPT3_5.ipynb*: using GPT-3.5 for in-context learning.
+- *in_context_ability_test_GPT3_5.ipynb*: using GPT-4 for in-context learning.
 
 ## References
 
